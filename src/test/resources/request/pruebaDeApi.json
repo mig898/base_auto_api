@@ -1,0 +1,9 @@
+{
+  "name": "{nombre}",
+  "data": {
+    "year": "{periodo}",
+    "price": "{precio}",
+    "CPU model": "{modelo}",
+    "Hard disk size": "{capacidad}"
+  }
+}
